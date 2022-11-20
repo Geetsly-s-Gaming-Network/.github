@@ -1,12 +1,12 @@
 <h1 align="center">
   Geetsly's & The Front
 </h1>
-<div width="49%" float="left" display="inline-block">
+<p width="49%" float="left">
   <img src="https://geetslys.net/assets/img/gcw-icon.png" width="128px" />
-</div>
-<div width="49%" float="right" display="inline-block">
+</p>
+<p width="49%" float="right">
   <img src="https://geetslys.net/assets/img/gcu-icon.png" width="128px" float="right" />
-</div>
+</p>
 
 <p align="middle">
   <a href="https://discord.gg/fedVdrp3M2"><img src="https://geetslys.net/assets/img/gcw-icon.png" width="40%" /></a>
