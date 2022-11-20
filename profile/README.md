@@ -4,7 +4,7 @@
 <h3>
   A subset of <a href="https://frontiermediaco.com/">Frontier Media</a>
 </h3>
-<p align="middle" style="padding: 10px">
+<p align="middle" style="padding: 30px">
   <img src="https://geetslys.net/assets/img/gcu-icon.png" width="30%" />
   <img src="https://geetslys.net/assets/img/gcw-icon.png" width="30%" /> 
   <img src="https://geetslys.net/assets/img/gcu-icon.png" width="30%" />
