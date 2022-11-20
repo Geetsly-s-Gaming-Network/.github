@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Geetsly's & The Front
 </h1>
 <img src="https://geetslys.net/assets/img/gcw-icon.png" width="128px" />
