@@ -1,7 +1,7 @@
 <h1 align="center">
   Geetsly's & The Front
 </h1>
-<h2>Powered by Frontier Interactive & Frontier Media Ltd.</h2>
+<h2 align="center">Powered by Frontier Interactive & Frontier Media Ltd.</h2>
 
 <p align="middle">
   <a href="https://discord.gg/fedVdrp3M2"><img src="https://geetslys.net/assets/img/gcw-icon.png" width="30%" /></a>
